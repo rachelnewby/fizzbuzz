@@ -1,3 +1,3 @@
 FizzBuzz activity
 
-Authors: Rachel Newby and Alex BodiaN
+Authors: Rachel Newby and Alex Bodian
