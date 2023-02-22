@@ -1,7 +1,7 @@
 # FizzBuzz: Pair Programming
 
 As part of the Makers Academy Bootcamp, this repo is the result of our first pair programming session. <br>
-The task was to build the FizzBuzz program: <b>
+The task was to build the FizzBuzz program: <br>
 Build a program which counts numbers: 
 * If a number is divisible by 3, the student says “fizz” rather than the number.
 * If a number is divisible by 5, they say “buzz” rather than the number.
